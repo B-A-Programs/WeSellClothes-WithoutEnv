@@ -7,6 +7,8 @@ and completing the "purchase" process, sending email confirmations and verificat
 
 https://wesellclothes.herokuapp.com/
 
+Presentation video: https://youtu.be/EGxmlptydVE
+
 ## Features
 
 - **User Authentication**: Users can sign up, log in, and log out of their accounts.
